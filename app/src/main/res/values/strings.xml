@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Barber Booking</string>
+    <string name="new_user_sign_up">New User? <b>SignUp</b></string>
+</resources>
